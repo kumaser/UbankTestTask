@@ -1,0 +1,9 @@
+<resources>
+    <string name="screen_name_number_sequence">Последовательность чисел</string>
+    <string name="screen_name_timer">Таймер</string>
+    <string name="item_show_timer_activity">Таймер</string>
+    <string name="button_start_timer">Запустить таймер</string>
+    <string name="title_timer_alert_dialog">Таймер</string>
+    <string name="message_timer_alert_dialog">Прошло 5 секунд с момента запуска таймера, таймер остановлен</string>
+    <string name="cancel">Закрыть</string>
+</resources>
