@@ -62,12 +62,8 @@ public class TimerFragment extends Fragment implements TimerContract.View, View.
     }
 
     @Override
-    public boolean isActive() {
-        return isAdded();
-    }
-
-    @Override
     public void onClick(View v) {
         mPresenter.runTimer();
     }
+
 }

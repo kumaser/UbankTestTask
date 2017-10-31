@@ -9,7 +9,6 @@ public interface TimerContract {
     interface View extends BaseView<Presenter> {
         boolean isShown();
         void showDialogFragment();
-        boolean isActive();
     }
 
     interface Presenter extends BasePresenter {
